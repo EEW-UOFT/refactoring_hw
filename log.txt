@@ -1,0 +1,2 @@
+57e4e4e (HEAD -> main) Checkstyle changes implemented, Task 1.1 finished
+9c68970 (origin/main, origin/HEAD) Initial commit
