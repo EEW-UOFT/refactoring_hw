@@ -1,4 +1,5 @@
-025af34 (HEAD -> main) Refactored frmt, completed Task 2.3
+e968b54 (HEAD -> main) Refactored loop calculating volume credit and total amount, completed Task 2.4
+025af34 Refactored frmt, completed Task 2.3
 3c29564 Refactored volume credit calculation, completed Task 2.2
 0b5f17d Refactored statement method, completed Task 2.1
 01c1311 Added Git Log to log.txt, completed Task 1.2
